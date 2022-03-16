@@ -25,7 +25,7 @@ Response:
     "result": {
         "id": 2,
         "username": "ilyas",
-        "password": "ilyas"
+        "password": "123123"
     },
     "timestamp": "2022-03-16 12:44:44"
 }
