@@ -82,7 +82,7 @@ Response:
     "timestamp": "2022-03-16 12:44:44"
 }
 ```
-#### Players objesi icerisinde gonderilen userID, rediste yoksa socore bilgisi redise eklenmez.
+#### Players objesi icerisinde gonderilen userID, rediste yoksa score bilgisi redise eklenmez.
 
 ### LEADERBOARD
 
